@@ -1,0 +1,88 @@
+Partlist
+
+Exported from Control HAT v0.2B.sch at 06/19/2019 17:49
+
+EAGLE Version 9.3.1 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value              Device                  Package                    Library                                        Sheet
+
+C1       100 nF             C-EUC0603               C0603                      rcl                                            2
+C2       100 nF             C-EUC0603               C0603                      rcl                                            2
+C3       4.7 uF             C-EUC0603               C0603                      rcl                                            2
+C4       100 nF             C-EUC0603               C0603                      rcl                                            2
+C5       22 uF              C-EUC0603               C0603                      rcl                                            3
+C7       20 pF              C-EUC0603               C0603                      rcl                                            1
+C8       10 uF              C-EUC0603               C0603                      rcl                                            3
+C9       30 uF              C-EUC0603               C0603                      rcl                                            3
+C10      20 pF              C-EUC0603               C0603                      rcl                                            1
+C12      22 uF              C-EUC0603               C0603                      rcl                                            3
+C13      10 uF              C-EUC0603               C0603                      rcl                                            3
+C14      0.1 uF             C-EUC0603               C0603                      rcl                                            3
+C15      0.1 uF             C-EUC0603               C0603                      rcl                                            1
+C16      0.1 uF             C-EUC0603               C0603                      rcl                                            1
+C17      20 pF              C-EUC0603               C0603                      rcl                                            4
+C18      20 pF              C-EUC0603               C0603                      rcl                                            4
+C19      22 uF              C-EUC0603               C0603                      rcl                                            3
+C20      22 uF              C-EUC0603               C0603                      rcl                                            3
+C21      10 uF              C-EUC0603               C0603                      rcl                                            2
+C22      1 uF               C-EUC0603               C0603                      rcl                                            3
+D1       AMB                LED0603                 LED-0603                   SparkFun-LED                                   2
+D2       AMB                LED0603                 LED-0603                   SparkFun-LED                                   2
+D3       RED                LED0603                 LED-0603                   SparkFun-LED                                   3
+D5       1655               1655                    FCI_1655                   Neopixel-1655                                  2
+D6       GRN                LED0603                 LED-0603                   SparkFun-LED                                   1
+D7       GRN                LED0603                 LED-0603                   SparkFun-LED                                   3
+D8       YEL                LED0603                 LED-0603                   SparkFun-LED                                   3
+J1       PJ-002AH-SMT-TR    PJ-002AH-SMT-TR         CUI_PJ-002AH-SMT-TR        PJ-002AH-SMT-TR                                3
+J2       10118192-0001LF    10118192-0001LF         AMPHENOL_10118192-0001LF   10118192-0001LF                                2
+JP1      ICSP               PINHD-2X3               2X03                       pinhead                                        1
+JP2      Raspberry Pi       PINHD-2X20              2X20                       pinhead                                        1
+JP3                         HEADER-3X04             3X04                       microbuilder                                   1
+JP4                         HEADER-3X04             3X04                       microbuilder                                   1
+JP5                         HEADER-3X04             3X04                       microbuilder                                   1
+JP6      CAN                PINHD-1X2               1X02                       pinhead                                        4
+JP7      CAN_TERM           JUMPER-SMT_2_NO_NO-SILK SMT-JUMPER_2_NO_NO-SILK    SparkFun-Jumpers                               4
+JP8      CAN                PINHD-1X2               1X02                       pinhead                                        4
+L1       744316470          744316470               INDC2220X16                744316470                                      3
+L2       744316470          744316470               INDC2220X16                744316470                                      3
+R1       1K                 R-US_R0603              R0603                      rcl                                            2
+R2       220                R-US_R0603              R0603                      rcl                                            1
+R3       2K                 R-US_R0603              R0603                      rcl                                            3
+R4       10K                R-US_R0603              R0603                      rcl                                            3
+R5       120                R-US_R0603              R0603                      rcl                                            4
+R6       10K                R-US_R0603              R0603                      rcl                                            3
+R7       10K                R-US_R0603              R0603                      rcl                                            4
+R8       220                RESISTOR_4PACK          RESPACK_4X0603             microbuilder                                   3
+R9       10K                R-US_R0603              R0603                      rcl                                            3
+R10      10k                R-US_R0603              R0603                      rcl                                            3
+R11      10K                R-US_R0603              R0603                      rcl                                            3
+R13      220                R-US_R0603              R0603                      rcl                                            2
+R14      220                R-US_R0603              R0603                      rcl                                            2
+R16      10.2K              R-US_R0603              R0603                      rcl                                            3
+R17      5.1K               R-US_R0603              R0603                      rcl                                            3
+R20      43k                R-US_R0603              R0603                      rcl                                            3
+RN3      10k                4R-NEXB28V              EXB28V                     resistor-dil                                   2
+RN4      10k                4R-NEXB28V              EXB28V                     resistor-dil                                   2
+RN5      10k                4R-NEXB28V              EXB28V                     resistor-dil                                   2
+RN6      2k                 4R-NEXB28V              EXB28V                     resistor-dil                                   2
+SW1      RESET              1825910-6               SW_1825910-6-4             Tactile Switch                                 1
+T1       BSS138BKS,115      BSS138BKS,115           SOT363                     BSS138BKS_115                                  2
+T2       BSS138BKS,115      BSS138BKS,115           SOT363                     BSS138BKS_115                                  2
+T3       BSS138BKS,115      BSS138BKS,115           SOT363                     BSS138BKS_115                                  2
+T4       BSS138BKS,115      BSS138BKS,115           SOT363                     BSS138BKS_115                                  2
+U1       ATMEGA2560-16AU    ATMEGA2560-16AU         QFP50P1600X1600X120-100N   ATMEGA2560-16AU                                1
+U2       CP2102N-A01-GQFN28 CP2102N-A01-GQFN28      QFN50P500X500X80-29N       CP2102N-A01-GQFN28                             2
+U3       TPS630701RNMT      TPS63070RNMT            QFN50P250X300X100-15N      TPS63070RNMT                                   3
+U4       MCP73833T-AMI/MF   MCP73833DFN             DFN10_3X3MM                microbuilder                                   3
+U5       TPS613222ADBVT     TPS613222ADBVT          SOT95P280X145-5N           TPS613222ADBVT                                 3
+U6       TPS2121RUXR        TPS2121RUXR             IC_TPS2121RUXR             TPS2121RUXR                                    3
+U7       LM3670MF-3.3       LM3670MF-3.3            SOT95P284X122-5N           LM3670MF-3.3                                   2
+U8       TJA1050            TJA1050                 SOT96-1                    TJA1050                                        4
+U9       MCP2515-I/SO       MCP2515-I/SO            SOIC127P1034X264-18N       MCP2515-I_SO                                   4
+X2       BATT_IN            JST-XH-02-PIN-LONG-PAD  JST-XH-02-PACKAGE-LONG-PAD Rembrandt Electronics - JST XH Connectors v1-0 3
+X6       I2C                JST-XH-04-PIN-LONG-PAD  JST-XH-04-PACKAGE-LONG-PAD Rembrandt Electronics - JST XH Connectors v1-0 1
+X7       I2C                JST-XH-04-PIN-LONG-PAD  JST-XH-04-PACKAGE-LONG-PAD Rembrandt Electronics - JST XH Connectors v1-0 1
+Y1       ECS-160-20-3X-TR   ECS-160-20-3X-TR        XTAL_ECS-160-20-3X-TR      ECS-160-20-3X-TR                               1
+Y2       ECS-160-20-3X-TR   ECS-160-20-3X-TR        XTAL_ECS-160-20-3X-TR      ECS-160-20-3X-TR                               4

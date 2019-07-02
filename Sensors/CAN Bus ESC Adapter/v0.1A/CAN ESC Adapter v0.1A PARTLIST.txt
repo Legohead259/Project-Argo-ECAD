@@ -1,0 +1,29 @@
+Partlist
+
+Exported from CAN ESC Adapter v0.1A.sch at 06/20/2019 15:41
+
+EAGLE Version 9.3.1 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value            Device           Package               Library                     Sheet
+
+C1       20 pF            C-EUC0603        C0603                 rcl                         1
+C2       20 pF            C-EUC0603        C0603                 rcl                         1
+C3       100 nF           C-EUC0603        C0603                 rcl                         1
+C4       100 nF           C-EUC0603        C0603                 rcl                         1
+C5       100 nF           C-EUC0603        C0603                 rcl                         1
+D3       RED              LED0603          LED-0603              SparkFun-LED                1
+JP1      ICSP             PINHD-2X3        2X03                  pinhead                     1
+JP2                       PINHD-1X2/90     1X02/90               pinhead                     1
+JP3                       PINHD-1X3/90     1X03/90               pinhead                     1
+JP4                       PINHD-1X2/90     1X02/90               pinhead                     1
+LSP1     SE14             SE14             SE14                  solpad                      1
+LSP2     SE14             SE14             SE14                  solpad                      1
+R1       220              R-US_R0603       R0603                 rcl                         1
+R2       10K              R-US_R0603       R0603                 rcl                         1
+U1       ATTINY85         ATTINY85         ATTINY85              SparkFun-IC-Microcontroller 1
+U2       TJA1050          TJA1050          SOT96-1               TJA1050                     1
+U3       MCP2515-I/SO     MCP2515-I/SO     SOIC127P1034X264-18N  MCP2515-I_SO                1
+U4       LP2985-50DBVR    LP2985-50DBVR    SOT23-5               LP2985-50DBVR               1
+Y1       ECS-160-20-3X-TR ECS-160-20-3X-TR XTAL_ECS-160-20-3X-TR ECS-160-20-3X-TR            1
